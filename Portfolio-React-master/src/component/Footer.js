@@ -57,12 +57,12 @@ const Footer = () => {
         <div className='right'>
           <h4>Feel free to contact me...</h4>
           <p>
-            This is Harmanjot Kaur.I enjoy discussing new projects and design
+            This is ADIO Kayode.I enjoy discussing new projects and design
             challenges.
           </p>
           <div className='social'>
             <Link
-              to='https://www.linkedin.com/in/harmanjot-kaur-4427b122a/'
+              to='https://www.linkedin.com/in/adio-oluwakayode'
               target='_blank'
             >
               <FaLinkedin
@@ -74,10 +74,7 @@ const Footer = () => {
                 }}
               />
             </Link>
-            <Link
-              to='https://www.instagram.com/harmankaur_2002/'
-              target='_blank'
-            >
+            <Link to='https://www.instagram.com/kylead10/' target='_blank'>
               <FaInstagram
                 size={30}
                 style={{
@@ -87,7 +84,7 @@ const Footer = () => {
                 }}
               />
             </Link>
-            <Link to='https://github.com/harmanjot2002' target='_blank'>
+            <Link to='https://github.com/kylead10' target='_blank'>
               {' '}
               <FaGithub
                 size={30}
