@@ -57,7 +57,7 @@ const Footer = () => {
         <div className='right'>
           <h4>Feel free to contact me...</h4>
           <p>
-            This is ADIO Kayode.I enjoy discussing new projects and design
+            This is ADIO Kayode. I enjoy discussing new projects and design
             challenges.
           </p>
           <div className='social'>
@@ -96,7 +96,7 @@ const Footer = () => {
               />
             </Link>
             <a
-              href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=harmanjotkainth@gmail.com'
+              href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=adiokayode111@gmail.com'
               target='_blank'
             >
               {' '}
