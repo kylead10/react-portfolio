@@ -16,7 +16,7 @@ const HeroImg = () => {
           A <span>Frontend Developer</span>
         </h3>
         <p>
-          A Passionate Programmer And Problem Solver. Results-driven Front End
+          A Passionate Programmer and Problem Solver. Results-driven Front End
           Engineer with a proven track record of designing and developing
           intuitive and visually appealing user interfaces. Adept at analyzing
           user requirements, implementing best practices, and optimizing website
