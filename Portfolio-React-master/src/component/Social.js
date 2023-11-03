@@ -13,7 +13,7 @@ const Social = () => {
           target='_blank'
           rel='noreferrer'
         >
-          <img src={Inst} alt='Instalogo' className='Instalogo' />
+          <img src={Inst} alt='Instagram-logo' className='Instalogo' />
         </a>
         <a
           href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=adiokayode111@gmail.com'
