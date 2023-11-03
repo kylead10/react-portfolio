@@ -19,7 +19,7 @@ const HeroImg = () => {
           A Passionate Programmer and Problem Solver. Results-driven Front End
           Engineer with a proven track record of designing and developing
           intuitive and visually appealing user interfaces. Adept at analyzing
-          user requirements, implementing best practices, and optimizing website
+          user requirements, implementing best practices and optimizing website
           performance to deliver exceptional user experiences.
         </p>
         <div className='buttons'>
