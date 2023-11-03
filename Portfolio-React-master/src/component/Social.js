@@ -29,7 +29,7 @@ const Social = () => {
         <a href='https://github.com/kylead10' target='_blank'>
           <img
             src='https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e'
-            alt='gitlogo'
+            alt='git-logo'
             className='gitlogo'
           />
         </a>
