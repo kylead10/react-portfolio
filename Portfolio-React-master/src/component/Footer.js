@@ -57,7 +57,7 @@ const Footer = () => {
         <div className='right'>
           <h4>Feel free to contact me...</h4>
           <p>
-            This is ADIO Oluwakayode. I enjoy discussing new projects and design
+            This is ADIO Oluwakayode. I enj discussing new projects and design
             challenges.
           </p>
           <div className='social'>
