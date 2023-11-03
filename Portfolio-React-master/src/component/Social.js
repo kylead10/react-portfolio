@@ -34,7 +34,7 @@ const Social = () => {
           />
         </a>
         <a href='https://www.linkedin.com/in/adio-oluwakayode' target='_blank'>
-          <img src={Linkedin} alt='Linkedin' className='tele' />
+          <img src={Linkedin} alt='Linkedin-Logo' className='tele' />
         </a>
       </div>
     </>
