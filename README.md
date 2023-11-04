@@ -1,1 +1,1 @@
-this is a personal 
+this is a personal potfolio project 
