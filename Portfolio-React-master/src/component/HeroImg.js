@@ -28,7 +28,7 @@ const HeroImg = () => {
             Projects
           </Link>
           <Link to='/contact' className='btn-light'>
-            Contact
+            Contact me
           </Link>
         </div>
       </div>
