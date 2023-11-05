@@ -23,8 +23,8 @@ const Footer = () => {
               style={{ color: '#fff', marginRight: '2rem', cursor: 'pointer' }}
             />
             <div>
-              <p>Ikeja Lagos,</p>
-              <p>Nigeria.</p>
+              <p>Lagos, Nigeria.</p>
+              {/* <p>Nigeria.</p> */}
             </div>
           </div>
           <div className='phone'>
