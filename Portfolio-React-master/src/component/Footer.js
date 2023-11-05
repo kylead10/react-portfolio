@@ -59,8 +59,10 @@ const Footer = () => {
         <div className='right'>
           <h4>Feel free to contact me...</h4>
           <p>
-            This is ADIO Oluwakayode. I enjoy discussing new projects and design
-            challenges.
+            I am ADIO Oluwakayode, and I have a genuine passion for engaging in
+            conversations about innovative projects and design complexities. I
+            invite you to connect with me on my various social media platforms,
+            where we can explore and discuss these topics in greater depth.
           </p>
           <div className='social'>
             <Link
