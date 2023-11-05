@@ -42,15 +42,17 @@ const Footer = () => {
           </div>
           <div className='email'>
             <h4>
-              <FaMailBulk
-                size={20}
-                style={{
-                  color: '#fff',
-                  marginRight: '2rem',
-                  cursor: 'pointer',
-                }}
-              />
-              adiokayode111@gmail.com
+              <a href='mailto:adiokayode111@gmail.com'>
+                <FaMailBulk
+                  size={20}
+                  style={{
+                    color: '#fff',
+                    marginRight: '2rem',
+                    cursor: 'pointer',
+                  }}
+                />
+                adiokayode111@gmail.com
+              </a>
             </h4>
           </div>
         </div>
