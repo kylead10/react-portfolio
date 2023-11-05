@@ -16,13 +16,12 @@ const HeroImg = () => {
           A <span>Frontend Developer</span>
         </h3>
         <p>
-          A dedicated and enthusiastic programmer and creative problem solver.
-          An accomplished Front End Engineer, motivated by a relentless passion
-          for excellence. With a well-established history of crafting
-          user-friendly, aesthetically pleasing interfaces, I excel in
-          deciphering user needs, applying industry best practices, and
-          enhancing website performance to provide unparalleled user
-          experiences.
+          A dedicated and enthusiastic programmer and creative problem solver. A
+          self thought Front End Engineer, motivated by a relentless passion for
+          excellence. With a well-established history of crafting user-friendly,
+          aesthetically pleasing interfaces, I excel in deciphering user needs,
+          applying industry best practices, and enhancing website performance to
+          provide unparalleled user experiences.
         </p>
         <div className='buttons'>
           <Link to='/project' className='btn'>
