@@ -42,7 +42,7 @@ const Footer = () => {
           </div>
           <div className='email'>
             <h4>
-              <a href='mailto:adiokayode111@gmail.com'>
+              <a href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=adiokayode111@gmail.com'>
                 <FaMailBulk
                   size={20}
                   style={{
