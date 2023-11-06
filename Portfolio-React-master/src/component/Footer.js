@@ -24,7 +24,6 @@ const Footer = () => {
             />
             <div>
               <p>Lagos, Nigeria.</p>
-              {/* <p>Nigeria.</p> */}
             </div>
           </div>
           <div className='phone'>
