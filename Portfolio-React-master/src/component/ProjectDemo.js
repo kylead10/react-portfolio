@@ -2,7 +2,7 @@ import './ProjectStyles.css';
 import React from 'react';
 
 import Task from '../assets/task.png';
-import Schools from '../assets/H4Schools.png';
+import RPS from '../assets/RPS.png';
 import FMS from '../assets/FMS.png';
 
 import { Link } from 'react-router-dom';
@@ -18,15 +18,15 @@ const ProjectDemo = () => {
         </h2>
         <div className='portfolio-container' style={{ zIndex: 20 }}>
           <div className='portfolio-box'>
-            <img src={Schools} alt='H4 Schools' />
+            <img src={RPS} alt='rock paper and scissors' />
             <div className='portfolio-layer'>
-              <h4>H4 Schools</h4>
+              <h4>Rock Paper and Scissors game </h4>
               <p>
-                "Content Management System" allows users to access an extensive
-                library of tutorials, examples, and resources for HTML,CSS,JS
-                and more.It empowers developers and learners to explore
-                user-friendly interface, advanced filtering capabilities and
-                responsive design in this CMS project.
+                The "Rock, Paper, Scissors Game" is a web-based project that
+                offers a classic and interactive gaming experience. It features
+                an attractive and responsive interface built with HTML, CSS, and
+                JavaScript, providing users with a fun and challenging way to
+                test their strategic decision-making skills.
               </p>
               <div className='connects'>
                 <Link
