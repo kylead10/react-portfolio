@@ -9,7 +9,7 @@ import {
   FaGithub,
   FaGoogle,
 } from 'react-icons/fa';
-// import {SiGmail} from "react-icons/si";
+// import { SiGmail } from 'react-icons/si';
 import { Link } from 'react-router-dom';
 
 const Footer = () => {

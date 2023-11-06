@@ -17,7 +17,7 @@ const EducationSlider = () => {
                     <i className='bx bxs-calendar'></i>2016-2022
                   </div>
                   <h3>BSc., Mechanical Engineering</h3>
-                  <p>Obafemi Awolowo University, Nigeria</p>
+                  <p>Obafemi Awolowo University, Nigeria.</p>
                 </div>
               </div>
             </div>
