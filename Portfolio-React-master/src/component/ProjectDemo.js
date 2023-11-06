@@ -57,7 +57,7 @@ const ProjectDemo = () => {
               <h4>EduCrafter</h4>
               <p>
                 "Faculty Management System" is a web-based application designed
-                to streamline faculty related tasks. Users can effortlessly
+                to streamline faculty related task. Users can effortlessly
                 manage faculty information, assign lectures and groups,provide
                 ratings or reviews and view them weekly,monthly and yearly.
               </p>
