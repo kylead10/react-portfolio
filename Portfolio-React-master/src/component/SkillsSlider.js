@@ -53,7 +53,7 @@ const SkillsSlider = () => {
                 </div>
                 <div className='progress'>
                   <h3>
-                    NextJS <span>In view</span>
+                    NextJS <span> -In view</span>
                   </h3>
                   <div className='bar_'>
                     <span></span>
@@ -61,7 +61,7 @@ const SkillsSlider = () => {
                 </div>
                 <div className='progress'>
                   <h3>
-                    NodeJS <span>In view</span>
+                    NodeJS <span> -In view</span>
                   </h3>
                   <div className='bar_'>
                     <span></span>
