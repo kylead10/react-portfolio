@@ -23,7 +23,7 @@ const SkillsSlider = () => {
                 </div>
                 <div className='progress'>
                   <h3>
-                    CSS <span>85%</span>
+                    CSS <span>80%</span>
                   </h3>
                   <div className='bar'>
                     <span></span>
@@ -31,7 +31,7 @@ const SkillsSlider = () => {
                 </div>
                 <div className='progress'>
                   <h3>
-                    JavaScript <span>65%</span>
+                    JavaScript<span>65%</span>
                   </h3>
                   <div className='bar'>
                     <span></span>
