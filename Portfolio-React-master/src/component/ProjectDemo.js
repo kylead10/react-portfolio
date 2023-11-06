@@ -31,20 +31,17 @@ const ProjectDemo = () => {
               <div className='connects'>
                 <Link
                   className='redirect'
-                  to='https://github.com/harmanjot2002/H4-Schools'
+                  to='https://github.com/kylead10/Rock-Scissors-and-Paper-game'
                   target='_blank'
                 >
                   <FaGithub size={30} style={{ color: 'var(--bg-color' }} />
                 </Link>
-                <Link
-                  to='https://h4-schools-6m61-7kba5ukvq-harmanjot2002.vercel.app/'
-                  target='_blank'
-                >
+                {/* <Link to='' target='_blank'>
                   <BiLinkExternal
                     size={30}
                     style={{ color: 'var(--bg-color' }}
                   />
-                </Link>
+                </Link> */}
                 <Link to='/popup3' target='_blank'>
                   <FaVideo size={30} style={{ color: 'var(--bg-color' }} />
                 </Link>
