@@ -50,7 +50,7 @@ const Footer = () => {
                     cursor: 'pointer',
                   }}
                 />
-                adiokayode111@gmail.com
+                Adiokayode111@gmail.com
               </a>
             </h4>
           </div>
