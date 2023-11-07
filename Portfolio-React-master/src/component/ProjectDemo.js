@@ -53,8 +53,8 @@ const ProjectDemo = () => {
             <div className='portfolio-layer'>
               <h4>EduCrafter</h4>
               <p>
-                "Faculty Management System" is a web-based application designed
-                to streamline faculty related task. Users can effortlessly
+                "Faculty Management System" is a web based application designed
+                to streamline faculty related tasks. Users can effortlessly
                 manage faculty information, assign lectures and groups,provide
                 ratings or reviews and view them weekly,monthly and yearly.
               </p>
@@ -87,7 +87,7 @@ const ProjectDemo = () => {
             <div className='portfolio-layer'>
               <h4>Task Manager</h4>
               <p>
-                Task Manager Application using HTML,CSS and JavaScript where
+                Task Manager Application bui using HTML,CSS and JavaScript where
                 users can perform CRUD operations, set due dates,categorize and
                 includes a calender view of tasks as needed.
               </p>
