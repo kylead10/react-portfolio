@@ -87,9 +87,10 @@ const ProjectDemo = () => {
             <div className='portfolio-layer'>
               <h4>Task Manager</h4>
               <p>
-                Task Manager Application bui using HTML,CSS and JavaScript where
-                users can perform CRUD operations, set due dates,categorize and
-                includes a calender view of tasks as needed.
+                Task Manager Application built using HTML,CSS and JavaScript
+                where users can perform CRUD operations, set due
+                dates,categorize and includes a calender view of tasks as
+                needed.
               </p>
               <div className='connects'>
                 <Link
