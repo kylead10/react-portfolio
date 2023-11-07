@@ -61,7 +61,7 @@ const ProjectDemo = () => {
               <div className='connects'>
                 <Link
                   className='redirect'
-                  to='https://github.com/harmanjot2002/EduCrafter'
+                  to='https://github.com/'
                   target='_blank'
                 >
                   <FaGithub size={30} style={{ color: 'var(--bg-color' }} />
