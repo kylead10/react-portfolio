@@ -88,7 +88,7 @@ const ProjectDemo = () => {
               <h4>Task Manager</h4>
               <p>
                 Task Manager Application built using HTML,CSS and JavaScript
-                where users can perform operationssuch set due dates,categorize
+                where users can perform operation such set due dates,categorize
                 and includes a calender view of tasks as needed.
               </p>
               <div className='connects'>
