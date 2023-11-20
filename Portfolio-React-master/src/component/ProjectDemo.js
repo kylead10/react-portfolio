@@ -49,9 +49,9 @@ const ProjectDemo = () => {
             </div>
           </div>
           <div className='portfolio-box'>
-            <img src={FMS} alt='EduCrafter' />
+            <img src={FMS} alt='Netflix clone' />
             <div className='portfolio-layer'>
-              <h4>EduCrafter</h4>
+              <h4>Netflix clone</h4>
               <p>
                 "Faculty Management System" is a web based application designed
                 to streamline faculty related tasks. Users can effortlessly
