@@ -53,10 +53,11 @@ const ProjectDemo = () => {
             <div className='portfolio-layer'>
               <h4>Netflix clone</h4>
               <p>
-                "Faculty Management System" is a web based application designed
-                to streamline faculty related tasks. Users can effortlessly
-                manage faculty information, assign lectures and groups,provide
-                ratings or reviews and view them weekly,monthly and yearly.
+                Discover a world of captivating entertainment on our platform.
+                Immerse yourself in a vast collection of movies and series.
+                Explore the latest releases with immersive trailers powered by
+                the YouTube API, and let the excitement unfold before your eyes.
+                Your next binge-worthy experience awaits – start streaming now!
               </p>
               <div className='connects'>
                 <Link
