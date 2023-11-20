@@ -91,20 +91,12 @@ const ProjectDemo = () => {
               <div className='connects'>
                 <Link
                   className='redirect'
-                  to='https://github.com/'
+                  to='https://github.com/kylead10/age-calculator'
                   target='_blank'
                 >
                   <FaGithub size={30} style={{ color: 'var(--bg-color' }} />
                 </Link>
-                {/* <Link
-                  to='https://task-manager-phi-red.vercel.app/'
-                  target='_blank'
-                >
-                  <BiLinkExternal
-                    size={30}
-                    style={{ color: 'var(--bg-color' }}
-                  />
-                </Link> */}
+
                 <Link to='/popup' target='_blank'>
                   <FaVideo size={30} style={{ color: 'var(--bg-color' }} />
                 </Link>
