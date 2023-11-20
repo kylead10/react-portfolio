@@ -87,7 +87,13 @@ const ProjectDemo = () => {
             <img src={CALC} alt='Age calculator' />
             <div className='portfolio-layer'>
               <h4>Age Calculator</h4>
-              <p></p>
+              <p>
+                Uncover the mystery of time with my Age Calculator app.
+                Effortlessly determine your age or the age of others by entering
+                birth-dates. Simplify your timekeeping and gain instant insights
+                into the passage of years. It can effortlessly calculate the
+                ages that shape your journey through time.
+              </p>
               <div className='connects'>
                 <Link
                   className='redirect'
