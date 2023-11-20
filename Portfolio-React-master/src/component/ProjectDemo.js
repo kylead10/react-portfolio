@@ -1,7 +1,7 @@
 import './ProjectStyles.css';
 import React from 'react';
 
-import Task from '../assets/task.png';
+import CALC from '../assets/CALC.png';
 import RPS from '../assets/RPS.png';
 import FMS from '../assets/FMS.png';
 
@@ -84,7 +84,7 @@ const ProjectDemo = () => {
             </div>
           </div>
           <div className='portfolio-box'>
-            <img src={Task} alt='Age calculator' />
+            <img src={CALC} alt='Age calculator' />
             <div className='portfolio-layer'>
               <h4>Age Calculator</h4>
               <p>
