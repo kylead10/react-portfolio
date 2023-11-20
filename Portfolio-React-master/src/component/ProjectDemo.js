@@ -87,11 +87,7 @@ const ProjectDemo = () => {
             <img src={CALC} alt='Age calculator' />
             <div className='portfolio-layer'>
               <h4>Age Calculator</h4>
-              <p>
-                Task Manager Application built using HTML,CSS and JavaScript
-                where users can perform operation such as; set due
-                dates,categorize and includes a calender view of tasks needed.
-              </p>
+              <p></p>
               <div className='connects'>
                 <Link
                   className='redirect'
