@@ -68,7 +68,7 @@ const ProjectDemo = () => {
                 </Link>
                 <Link
                   className='redirect'
-                  to='https://dashboard-harmanjot2002.vercel.app/'
+                  to='https://netflix-clone-b29b6.firebaseapp.com/'
                   target='_blank'
                 >
                   <BiLinkExternal
