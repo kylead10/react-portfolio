@@ -62,7 +62,7 @@ const ProjectDemo = () => {
               <div className='connects'>
                 <Link
                   className='redirect'
-                  to='https://github.com/'
+                  to='https://github.com/kylead10/netflix-clone'
                   target='_blank'
                 >
                   <FaGithub size={30} style={{ color: 'var(--bg-color' }} />
