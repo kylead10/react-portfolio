@@ -100,7 +100,7 @@ const ProjectDemo = () => {
                 >
                   <FaGithub size={30} style={{ color: 'var(--bg-color' }} />
                 </Link>
-                <Link
+                {/* <Link
                   to='https://task-manager-phi-red.vercel.app/'
                   target='_blank'
                 >
@@ -108,7 +108,7 @@ const ProjectDemo = () => {
                     size={30}
                     style={{ color: 'var(--bg-color' }}
                   />
-                </Link>
+                </Link> */}
                 <Link to='/popup' target='_blank'>
                   <FaVideo size={30} style={{ color: 'var(--bg-color' }} />
                 </Link>
