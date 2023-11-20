@@ -57,7 +57,7 @@ const ProjectDemo = () => {
                 Immerse yourself in a vast collection of movies and series.
                 Explore the latest releases with immersive trailers powered by
                 the YouTube API, and let the excitement unfold before your eyes.
-                Your next binge-worthy experience awaits. Start streaming now!
+                Your next binge-worthy experience awaits.
               </p>
               <div className='connects'>
                 <Link
