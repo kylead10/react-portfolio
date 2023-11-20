@@ -57,7 +57,7 @@ const ProjectDemo = () => {
                 Immerse yourself in a vast collection of movies and series.
                 Explore the latest releases with immersive trailers powered by
                 the YouTube API, and let the excitement unfold before your eyes.
-                Your next binge-worthy experience awaits – start streaming now!
+                Your next binge-worthy experience awaits. Start streaming now!
               </p>
               <div className='connects'>
                 <Link
@@ -84,9 +84,9 @@ const ProjectDemo = () => {
             </div>
           </div>
           <div className='portfolio-box'>
-            <img src={Task} alt='Task Manager' />
+            <img src={Task} alt='Age calculator' />
             <div className='portfolio-layer'>
-              <h4>Task Manager</h4>
+              <h4>Age Calculator</h4>
               <p>
                 Task Manager Application built using HTML,CSS and JavaScript
                 where users can perform operation such as; set due
