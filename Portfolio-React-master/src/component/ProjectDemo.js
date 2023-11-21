@@ -20,7 +20,7 @@ const ProjectDemo = () => {
           <div className='portfolio-box'>
             <img src={RPS} alt='rock paper and scissors' />
             <div className='portfolio-layer'>
-              <h4>Rock Paper and Scissors game </h4>
+              <h4>Rock Paper Scissors game </h4>
               <p>
                 The "Rock, Paper, Scissors Game" is a web-based project that
                 offers a classic and interactive gaming experience. It features
