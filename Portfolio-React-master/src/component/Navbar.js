@@ -37,7 +37,7 @@ const Navbar = () => {
           <Link
             to={Resume}
             className='btn-light'
-            download="Harmanjot's Resume"
+            download="Kayode's Resume"
             target='_blank'
             rel='noreferrer'
           >
