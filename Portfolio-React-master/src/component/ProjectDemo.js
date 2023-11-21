@@ -56,8 +56,8 @@ const ProjectDemo = () => {
                 Discover a world of captivating entertainment on our platform.
                 Immerse yourself in a vast collection of movies and series.
                 Explore the latest releases with immersive trailers powered by
-                the YouTube API, and let the excitement unfold before your eyes.
-                Your next binge-worthy experience awaits.
+                IDMB API the YouTube API, and let the excitement unfold before
+                your eyes. Your next binge-worthy experience awaits.
               </p>
               <div className='connects'>
                 <Link
