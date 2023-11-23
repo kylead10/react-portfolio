@@ -14,7 +14,7 @@ const ContactForm = () => {
         'service_bc7vp6w',
         'template_uuowhfj',
         form.current,
-        'NRDJ1PoPQXmwHx3LB'
+        'ZjXOAgPZHmuX-Kcug'
       )
       .then(
         (result) => {
