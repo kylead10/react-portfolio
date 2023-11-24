@@ -34,7 +34,7 @@ const Navbar = () => {
           <NavLink to='/contact'>Contact</NavLink>
         </li>
         <li>
-          <Link
+          {/* <Link
             to={Resume}
             className='btn-light'
             download="Kayode's Resume"
@@ -51,7 +51,7 @@ const Navbar = () => {
                 cursor: 'pointer',
               }}
             />
-          </Link>
+          </Link> */}
         </li>
       </ul>
       <div className='hamburger' onClick={handleClick}>
