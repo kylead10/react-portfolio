@@ -19,7 +19,7 @@ const HeroImg = () => {
           I'm a dedicated and enthusiastic self-taught Front End Engineer with a
           passion for excellence. Experienced in creating user-friendly,
           visually appealing interfaces, I excel in understanding user
-          requirements, implementing best practices, and optimizing website
+          requirements, implementing best practices and optimizing website
           performance to deliver exceptional user experiences.
         </p>
         <div className='buttons'>
