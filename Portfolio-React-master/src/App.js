@@ -5,7 +5,7 @@ import Project from './routes/Project';
 import Contact from './routes/Contact';
 import Skills from './routes/Skills';
 import Education from './routes/Education';
-import Bubbles from './component/Bubbles';
+// import Bubbles from './component/Bubbles';
 import Popup from './component/Popup';
 import Popup2 from './component/Popup2';
 import Popup3 from './component/Popup3';
