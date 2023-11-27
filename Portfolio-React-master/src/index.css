@@ -29,12 +29,11 @@
 }
 
 body {
-  background: #000; /* Set background color to black */
+  background: #000;
   margin: 0 5% 0 5%;
   padding: 0 5% 0 5%;
 }
 
-/* NavLink automatically adds active class */
 .active {
   display: inline-block;
   border-bottom: 2px solid var(--main-color);
