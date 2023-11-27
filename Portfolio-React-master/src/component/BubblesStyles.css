@@ -18,7 +18,7 @@ html {
   position: absolute;
   bottom: 0;
   background: #c5b6c7;
-  /* background: #e8e8e8; */
+  background: #e8e8e8;
   border-radius: 50%;
   opacity: 0.5;
   animation: flying 10s infinite ease-in;
