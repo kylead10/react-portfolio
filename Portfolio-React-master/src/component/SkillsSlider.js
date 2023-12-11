@@ -31,7 +31,7 @@ const SkillsSlider = () => {
                 </div>
                 <div className='progress'>
                   <h3>
-                    JavaScript<span>65%</span>
+                    JavaScript<span>67%</span>
                   </h3>
                   <div className='bar'>
                     <span></span>
