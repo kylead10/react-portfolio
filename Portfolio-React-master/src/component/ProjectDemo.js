@@ -92,7 +92,7 @@ const ProjectDemo = () => {
                 Effortlessly determine your age or the age of others by entering
                 birth-dates. Simplify your timekeeping and gain instant insights
                 into the passage of years. This app can effortlessly calculate
-                the ages that shape your journey through time.
+                the ages that shape our journey through time.
               </p>
               <div className='connects'>
                 <Link
