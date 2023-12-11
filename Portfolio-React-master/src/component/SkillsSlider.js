@@ -45,7 +45,7 @@ const SkillsSlider = () => {
               <div className='skills-content'>
                 <div className='progress'>
                   <h3>
-                    React <span>60%</span>
+                    React <span>65%</span>
                   </h3>
                   <div className='bar'>
                     <span></span>
