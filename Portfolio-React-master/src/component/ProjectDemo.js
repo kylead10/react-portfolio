@@ -22,11 +22,8 @@ const ProjectDemo = () => {
             <div className='portfolio-layer'>
               <h4>Rock Paper Scissors game </h4>
               <p>
-                The "Rock, Paper, Scissors Game" is a web-based project that
-                offers a classic and interactive gaming experience. It features
-                an attractive and responsive interface built with HTML, CSS, and
-                JavaScript, providing users with a fun and challenging way to
-                test their strategic decision-making skills.
+                Classic fun reborn: Rock, Paper, Scissors reinvented with a
+                sleek interface
               </p>
               <div className='connects'>
                 <Link
@@ -53,16 +50,13 @@ const ProjectDemo = () => {
             <div className='portfolio-layer'>
               <h4>Netflix clone</h4>
               <p>
-                Discover a world of captivating entertainment on our platform.
-                Immerse yourself in a vast collection of movies and series.
-                Explore the latest releases with immersive trailers powered by
-                IDMB API and YouTube API. Let the excitement unfold before your
-                eyes. Your next binge-worthy experience awaits.
+                Dive into a captivating world of movies and series, with
+                trailers powered by IDMB & YouTube.
               </p>
               <div className='connects'>
                 <Link
                   className='redirect'
-                  to='https://github.com/kylead10/netflix-clone'
+                  href='https://github.com/kylead10/netflix-clone'
                   target='_blank'
                 >
                   <FaGithub size={30} style={{ color: 'var(--bg-color' }} />
@@ -88,11 +82,8 @@ const ProjectDemo = () => {
             <div className='portfolio-layer'>
               <h4>Age Calculator</h4>
               <p>
-                Uncover the mystery of time with the Age calculator app.
-                Effortlessly determine your age or the age of others by entering
-                birth-dates. Simplify your timekeeping and gain instant insights
-                into the passage of years. This app can effortlessly calculate
-                the ages that shape our journey through time and life.
+                Unravel time's secrets: Effortlessly calculate your age and
+                others', gaining instant insights into life's journey.
               </p>
               <div className='connects'>
                 <Link
