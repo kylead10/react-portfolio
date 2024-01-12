@@ -39,7 +39,7 @@ const ProjectDemo = () => {
                     style={{ color: 'var(--bg-color' }}
                   />
                 </Link> */}
-                <Link className='redirect' to='/popup3' target='_blank'>
+                <Link to='/popup3' target='_blank'>
                   <FaVideo size={30} style={{ color: 'var(--bg-color' }} />
                 </Link>
               </div>
@@ -71,7 +71,7 @@ const ProjectDemo = () => {
                     style={{ color: 'var(--bg-color' }}
                   />
                 </Link>
-                <Link className='redirect' to='/popup2' target='_blank'>
+                <Link to='/popup2' target='_blank'>
                   <FaVideo size={30} style={{ color: 'var(--bg-color' }} />
                 </Link>
               </div>
@@ -94,7 +94,7 @@ const ProjectDemo = () => {
                   <FaGithub size={30} style={{ color: 'var(--bg-color' }} />
                 </Link>
 
-                <Link className='redirect' to='/popup' target='_blank'>
+                <Link to='/popup' target='_blank'>
                   <FaVideo size={30} style={{ color: 'var(--bg-color' }} />
                 </Link>
               </div>
