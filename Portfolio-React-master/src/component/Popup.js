@@ -2,7 +2,7 @@ import './PopupStyles.css';
 import React from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
-import { calc } from '../assets/index';
+import { calc } from '../assets';
 
 const Popup = () => {
   return (
