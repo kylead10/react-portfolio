@@ -3,7 +3,7 @@ import React from 'react';
 
 import calc from '../assets/calc.png';
 import RPS from '../assets/RPS.png';
-import fms from '../assets/fms.png';
+import Fms from '../assets/Fms.png';
 
 import { Link } from 'react-router-dom';
 import { FaGithub, FaVideo } from 'react-icons/fa';
@@ -46,7 +46,7 @@ const ProjectDemo = () => {
             </div>
           </div>
           <div className='portfolio-box'>
-            <img src={fms} alt='Netflix clone' />
+            <img src={Fms} alt='Netflix clone' />
             <div className='portfolio-layer'>
               <h4>Netflix clone</h4>
               <p>
