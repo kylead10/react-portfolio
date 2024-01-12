@@ -2,7 +2,7 @@ import './PopupStyles.css';
 import React from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
-import { Fms } from '../assets/index';
+import { Fms } from '../assets';
 
 const Popup2 = () => {
   return (
