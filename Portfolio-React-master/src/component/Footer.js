@@ -9,8 +9,6 @@ import {
   FaGithub,
   FaGoogle,
 } from 'react-icons/fa';
-// import { SiGmail } from 'react-icons/si';
-import { Link } from 'react-router-dom';
 
 const Footer = () => {
   return (
@@ -64,9 +62,10 @@ const Footer = () => {
             where we can explore and discuss these topics in greater depth.
           </p>
           <div className='social'>
-            <Link
-              to='https://www.linkedin.com/in/adio-oluwakayode'
+            <a
+              href='https://www.linkedin.com/in/adio-oluwakayode'
               target='_blank'
+              rel='noreferrer'
             >
               <FaLinkedin
                 size={30}
@@ -76,8 +75,8 @@ const Footer = () => {
                   cursor: 'pointer',
                 }}
               />
-            </Link>
-            <Link to='https://www.instagram.com/kylead10/' target='_blank'>
+            </a>
+            <a to='https://www.instagram.com/kylead10/' target='_blank'>
               <FaInstagram
                 size={30}
                 style={{
@@ -86,8 +85,8 @@ const Footer = () => {
                   cursor: 'pointer',
                 }}
               />
-            </Link>
-            <Link to='https://github.com/kylead10' target='_blank'>
+            </a>
+            <a href='https://github.com/kylead10' target='_blank'>
               {' '}
               <FaGithub
                 size={30}
@@ -97,10 +96,11 @@ const Footer = () => {
                   cursor: 'pointer',
                 }}
               />
-            </Link>
+            </a>
             <a
               href='https://mail.google.com/mail/?view=cm&fs=1&tf=1&to=adiokayode111@gmail.com'
               target='_blank'
+              rel='noreferrer'
             >
               {' '}
               <FaGoogle
