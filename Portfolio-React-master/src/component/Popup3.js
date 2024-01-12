@@ -13,7 +13,7 @@ const Popup3 = () => {
           Project <span>Demo</span>
         </h2>
         <div id='popup3'>
-          <video src={RPS} muted autoplay controls></video>
+          <video src={RPS} muted autoPlay controls></video>
         </div>
       </div>
       <Footer />
