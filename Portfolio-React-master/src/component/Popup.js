@@ -2,7 +2,7 @@ import './PopupStyles.css';
 import React from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
-import Calc from '../assets/Calc.mp4';
+import calc from '../assets/calc.mp4';
 
 const Popup = () => {
   return (
@@ -13,7 +13,7 @@ const Popup = () => {
           Project <span>Demo</span>
         </h2>
         <div id='popup'>
-          <video src={Calc} muted autoplay controls></video>
+          <video src={calc} muted autoplay controls></video>
         </div>
       </div>
       <Footer />
