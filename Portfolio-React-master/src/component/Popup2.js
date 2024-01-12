@@ -2,7 +2,7 @@ import './PopupStyles.css';
 import React from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
-import Netflix from '../assets/Netflix.mp4';
+import { Fms } from '../assets/index';
 
 const Popup2 = () => {
   return (
@@ -13,7 +13,7 @@ const Popup2 = () => {
           Project <span>Demo</span>
         </h2>
         <div id='popup2'>
-          <video src={Netflix} muted autoplay controls></video>
+          <video src={Fms} muted autoPlay controls></video>
         </div>
       </div>
       <Footer />

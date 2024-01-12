@@ -2,7 +2,7 @@ import './PopupStyles.css';
 import React from 'react';
 import Navbar from './Navbar';
 import Footer from './Footer';
-import RPS from '../assets/RPS.mp4';
+import { RPS } from '../assets/index';
 
 const Popup3 = () => {
   return (
