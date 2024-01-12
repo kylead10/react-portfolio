@@ -29,12 +29,12 @@ const Social = () => {
         <a href='https://github.com/kylead10' target='_blank'>
           <img
             src='https://qph.cf2.quoracdn.net/main-qimg-729a22aba98d1235fdce4883accaf81e'
-            alt='git logo'
+            alt='git'
             className='gitlogo'
           />
         </a>
         <a href='https://www.linkedin.com/in/adio-oluwakayode' target='_blank'>
-          <img src={Linkedin} alt='Linkedin Logo' className='tele' />
+          <img src={Linkedin} alt='Linkedin' className='tele' />
         </a>
       </div>
     </>
