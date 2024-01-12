@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { Link, NavLink } from 'react-router-dom';
 import { FaBars, FaTimes } from 'react-icons/fa';
 import { AiOutlineArrowRight } from 'react-icons/ai';
-import Resume from '../assets/resume.pdf';
+// import Resume from '../assets/resume.pdf';
 
 const Navbar = () => {
   const [click, setClick] = useState(false);
