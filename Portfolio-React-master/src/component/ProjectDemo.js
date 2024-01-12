@@ -1,9 +1,9 @@
 import './ProjectStyles.css';
 import React from 'react';
 
-import CALC from '../assets/CALC.png';
+import calc from '../assets/calc.png';
 import RPS from '../assets/RPS.png';
-import FMS from '../assets/FMS.png';
+import fms from '../assets/fms.png';
 
 import { Link } from 'react-router-dom';
 import { FaGithub, FaVideo } from 'react-icons/fa';
@@ -46,7 +46,7 @@ const ProjectDemo = () => {
             </div>
           </div>
           <div className='portfolio-box'>
-            <img src={FMS} alt='Netflix clone' />
+            <img src={fms} alt='Netflix clone' />
             <div className='portfolio-layer'>
               <h4>Netflix clone</h4>
               <p>
@@ -78,7 +78,7 @@ const ProjectDemo = () => {
             </div>
           </div>
           <div className='portfolio-box'>
-            <img src={CALC} alt='Age calculator' />
+            <img src={calc} alt='Age calculator' />
             <div className='portfolio-layer'>
               <h4>Age Calculator</h4>
               <p>
