@@ -87,7 +87,6 @@ const Footer = () => {
               />
             </a>
             <a href='https://github.com/kylead10' target='_blank'>
-              {' '}
               <FaGithub
                 size={30}
                 style={{
