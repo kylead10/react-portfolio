@@ -76,7 +76,11 @@ const Footer = () => {
                 }}
               />
             </a>
-            <a to='https://www.instagram.com/kylead10/' target='_blank'>
+            <a
+              href='https://www.instagram.com/kylead10/'
+              target='_blank'
+              rel='no'
+            >
               <FaInstagram
                 size={30}
                 style={{
