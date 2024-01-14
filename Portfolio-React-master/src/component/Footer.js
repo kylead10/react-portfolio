@@ -79,7 +79,7 @@ const Footer = () => {
             <a
               href='https://www.instagram.com/kylead10/'
               target='_blank'
-              rel='no'
+              rel='norefferer'
             >
               <FaInstagram
                 size={30}
