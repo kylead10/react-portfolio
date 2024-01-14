@@ -56,7 +56,7 @@ const Footer = () => {
         <div className='right'>
           <h4>Feel free to contact me ...</h4>
           <p>
-            I am ADIO Oluwakayode, and I have a genuine passion for engaging in
+            I am ADIO Oluwakayode, I have a genuine passion for engaging in
             conversations about innovative projects and design complexities. I
             invite you to connect with me on my various social media platforms,
             where we can explore and discuss these topics in greater depth.
@@ -79,7 +79,7 @@ const Footer = () => {
             <a
               href='https://www.instagram.com/kylead10/'
               target='_blank'
-              rel='norefferer'
+              rel='noreferrer'
             >
               <FaInstagram
                 size={30}
