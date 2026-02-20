@@ -13,7 +13,7 @@ const HeroImg = () => {
         <h3>Hello, I'm</h3>
         <h1>ADIO Kayode</h1>
         <h3>
-          A <span>Frontend Developer</span>
+          A <span>Product Manager & Frontend Developer</span>
         </h3>
         <p>
           I am a dedicated and enthusiastic self-taught Front-End Engineer with
