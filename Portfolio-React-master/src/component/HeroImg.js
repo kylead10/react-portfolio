@@ -11,16 +11,24 @@ const HeroImg = () => {
       </div>
       <div className='content' style={{ zIndex: 20 }}>
         <h3>Hello, I'm</h3>
-        <h1>ADIO Oluwakayode</h1>
+        <h1>ADIO Kayode</h1>
         <h3>
           A <span>Frontend Developer</span>
         </h3>
         <p>
-          I'm a dedicated and enthusiastic self-taught Front End Engineer with a
-          passion for excellence. Experienced in creating user-friendly,
-          visually appealing interfaces, I excel in understanding user
-          requirements, implementing best practices and optimizing website
-          performance to deliver exceptional user experiences.
+          I am a dedicated and enthusiastic self-taught Front-End Engineer with
+          a strong passion for building intuitive, high-performing digital
+          experiences. I specialize in creating user-friendly and visually
+          engaging interfaces, translating user requirements into scalable
+          solutions, and optimizing performance to deliver seamless experiences.
+          Beyond implementation, I have developed a growing interest in Product
+          Management — focusing on problem definition, user research, and
+          outcome-driven decision-making. I am particularly interested in
+          understanding not just how to build products, but why they should be
+          built, ensuring every feature aligns with real user needs and
+          measurable business impact. I am driven by continuous learning,
+          thoughtful execution, and building products that create meaningful
+          value.
         </p>
         <div className='buttons'>
           <Link to='/project' className='btn'>
